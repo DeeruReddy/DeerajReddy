@@ -21,13 +21,6 @@ Location: Bangalore, Karnataka
 
 I'm a passionate learner and aspiring software professional with a keen interest in solving problems, building intelligent systems, and designing visually rich dashboards. Whether it’s building scalable ML applications or visualizing data patterns, I strive to blend technical accuracy with meaningful user experience.
 
-🔗 **Explore my world:**
-
-* 📄 [Resume](https://drive.google.com/file/d/1m6eDe0DrbnYx28y64AttEtwQTFls67R8/view?usp=sharing)
-* 💼 [LinkedIn](https://www.linkedin.com/in/deeraj-reddy-a1b534250)
-* 🧠 [LeetCode](https://leetcode.com/u/deeraj231/)
-* 📷 [Instagram](https://www.instagram.com/reddyz023_)
-
 ---
 
 ### 🧰 Tech Toolbox
